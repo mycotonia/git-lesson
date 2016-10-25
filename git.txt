@@ -1,3 +1,5 @@
 Git is really iuseful 
 But a bit complicated
 It's OK
+
+Writing explicit cimmit is important
