@@ -1,5 +1,6 @@
 Git is really iuseful 
-But a bit complicated
-It's OK
 
 Writing explicit cimmit is important
+
+
+making changes to this file as a test to see if i can save it. trying again to see if this works
